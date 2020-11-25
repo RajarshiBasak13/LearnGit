@@ -1,2 +1,4 @@
-for i in range(10):
+n = int(input("Enter the number"));
+
+for i in range(n):
     print(i);
